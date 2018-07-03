@@ -70,3 +70,4 @@ $ lipo -thin armv64 xxx.decrypted -output xxx_arm64.decrypted
 
 [Dumpdecrypted](https://github.com/stefanesser/dumpdecrypted) was orignally developed by [stefanesser](https://github.com/stefanesser). 
 Learn from [conradev](https://github.com/conradev/dumpdecrypted)
+# KNdumpdecryptedTweak
